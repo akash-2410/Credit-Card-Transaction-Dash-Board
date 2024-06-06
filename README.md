@@ -12,9 +12,9 @@ I'm thrilled to present the dynamic dashboard I developed for in-depth analysis 
 9. Revenue By Payment Type
     
 # Technical Stack Used:
-Data Extraction: Kaggle, PostgreSQL
-Data Transformation: Excel, Power BI
-Data Loading and Presentation: Power BI
+1.Data Extraction: Kaggle, PostgreSQL
+2.Data Transformation: Excel, Power BI
+3.Data Loading and Presentation: Power BI
 
 # Credit Card Transaction Dashboard 
 
